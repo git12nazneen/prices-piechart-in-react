@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1000,
+      "name": "Jim",
+      "features": ["Muscle Growth", "Recovery", "Energy Boost"]
+    },
+    {
+      "id": 2000,
+      "name": "Pre-Workout Supplement",
+      "features": ["Endurance Boost", "Focus Enhancement", "Muscle Pump"]
+    },
+    {
+      "id": 300,
+      "name": "BCAA Powder",
+    "features": ["Muscle Recovery", "Hydration", "Fatigue Reduction"]
+    },
+    {
+      "id": 4000,
+      "name": "Creatine Monohydrate",
+    "features": ["Strength Increase", "Muscle Endurance", "Cell Hydration"]
+  
+    },
+    {
+      "id": 5000,
+      "name": "Fat Burner",
+      "features": ["Metabolism Boost", "Appetite Suppression", "Energy Increase"]
+   
+    },
+    {
+      "id": 6000,
+      "name": "Whey Protein Isolate",
+    "features": ["Lean Muscle Growth", "Fast Absorption", "Low Fat"]
+  }
+  ]
+  
