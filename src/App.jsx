@@ -1,4 +1,5 @@
 import './App.css'
+import Banner from './assets/component/Banner/Banner'
 
 import Navbar from './assets/component/Navbar/Navbar'
 import Price from './assets/component/Price/Price'
@@ -9,9 +10,17 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
+    <Banner></Banner>
     <Price></Price>
     {/* <Header></Header> */}
-    <Linechart></Linechart>
+   <div className='flex'>
+   <div className='flex-1'>
+   <Linechart></Linechart>
+   </div>
+   <div className='flex-1'>
+    
+   </div>
+   </div>
     </>
   )
 }
